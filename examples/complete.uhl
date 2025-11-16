@@ -1,0 +1,17 @@
+Let us build a program that calculates statistics from a list of numbers. First, we will create a variable called total as an integer and set it to 0, which will hold our running sum.
+
+Next, we need the numbers to work with, so let us create a variable called numbers as a list and set it to [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]. These are the values we will be processing.
+
+Now we will iterate through each number. For each number in numbers, we want to add it to our total, so total becomes total plus number. This will accumulate the sum of all numbers in the list.
+
+Once we have added up all the numbers, we can calculate the average. Let us create a variable called average and set it to total divided by 10, which gives us the mean value.
+
+Now let us set up a counter for another task. We will create a variable called count and set it to 0.
+
+We will use a while loop to count up. While count is less than 5, we will increment the counter so that count becomes count plus 1. During each iteration, we will also create a variable called message and set it to "Count is". Then we will update it so that message is now message.
+
+After the while loop, we will do something a few times. Let us repeat 3 times, and each time we will create a variable called iteration and set it to "Processing". Then we will update it so that iteration is now iteration.
+
+We can also check conditions. Let us create a variable called is_done as a boolean and set it to total is greater than 50, which will tell us if we have reached our threshold.
+
+Finally, let us calculate a final result. We will create a variable called final_result and set it to average times 2 plus 10, which applies some transformation to our average value.

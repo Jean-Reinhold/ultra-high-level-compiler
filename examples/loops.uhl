@@ -1,0 +1,13 @@
+Let us start by create a variable called numbers and set it to [1, 2, 3, 4, 5]. This list contains the numbers we want to work with.
+
+Now, for each number in numbers do
+    Let us create a variable called squared and set it to number times number, which will calculate the square of each number. Then we will update squared so that squared becomes squared plus 1, adding one to the result.
+
+After processing all the numbers, we need to set up a counter. Let us create a variable called counter and set it to 0.
+
+Now we will use a while loop. While counter is less than 10 do
+    counter becomes counter plus 1 each time through the loop.
+
+Finally, repeat 5 times do
+    create a variable called message and set it to "Iteration"
+    message is now message

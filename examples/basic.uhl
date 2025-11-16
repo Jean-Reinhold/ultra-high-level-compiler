@@ -1,0 +1,9 @@
+Let me start by create a variable called x and set it to 5. This will be our starting point.
+
+Now I want to create a variable called name as a string and set it to "Hello, World!" so we can greet the user properly.
+
+We also need to track whether something is active, so let us create a variable called is_active as a boolean and set it to true.
+
+Later on, we will need to update x, so let us make x become 10.
+
+And finally, let us update the name so that name is now "Python".

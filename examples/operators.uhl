@@ -1,0 +1,17 @@
+First, let us create a variable called a and set it to 10. Then we will create another variable called b and set it to 5.
+
+Now we can perform some calculations. Let us create a variable called sum and set it to a plus b, which will give us the total of both numbers.
+
+We can also multiply them together, so let us create a variable called product and set it to a times b.
+
+For subtraction, we will create a variable called difference and set it to a minus b.
+
+And for division, let us create a variable called quotient and set it to a divided by b.
+
+We can also compare values. Let us create a variable called is_greater and set it to a is greater than b, which will tell us if a is larger.
+
+Similarly, we can check equality by creating a variable called is_equal and set it to a is equal to b.
+
+We can combine operations too. Let us create a variable called result and set it to a plus b times 2, which will calculate the sum first and then multiply by two.
+
+Finally, we can use logical operations. Let us create a variable called condition and set it to a is greater than 5 and b is less than 10, which will be true only if both conditions are met.
